@@ -17,7 +17,7 @@
     "url": "https://github.com/ArtemKlinkov/ahj-homeworks-ajs-use/issues"
   },
   "homepage": "https://github.com/ArtemKlinkov/ahj-homeworks-ajs-use#readme",
-  "dependencies": {
-    "@artemklinkov/ajs": "^1.0.0"
+  "devDependencies": {
+    "@artemklinkov/ajs": "^1.1.0"
   }
 }
